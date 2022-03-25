@@ -1,0 +1,60 @@
+body{
+  background-color: #012634
+}
+h1 {
+ text-align: center;
+color: gray
+}
+
+p{
+  text-align: left;
+}
+
+
+
+.sitat{
+color: gray;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px
+
+
+}
+
+.sitat2{
+color: gray;
+font-style: italic;
+font-weight: bold;
+font-size: 30px
+}
+
+
+ .sitat3{
+  color: gray;
+  font-style: oblique;
+  font-weight: normal;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+a{
+font-style: italic;
+  color: gray;
+  text-align: left;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.bilde{
+  border-radius: 50px;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px
+
+
+}
